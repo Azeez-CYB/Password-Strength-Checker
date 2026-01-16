@@ -23,7 +23,12 @@ A Python desktop application that evaluates password strength in real-time using
 
 ## 📸 Application Preview
 
-(You can add a screenshot here later)
+
+
+With:
+
+```markdown
+![App Preview](preview.png)
 
 ---
 
