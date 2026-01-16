@@ -32,4 +32,4 @@ A Python desktop application that evaluates password strength in real-time using
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-checker.git
+git clone https://github.com/AZEEZ-CYB/password-strength-checker.git
