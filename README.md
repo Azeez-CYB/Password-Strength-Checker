@@ -25,7 +25,7 @@ A Python desktop application that evaluates password strength in real-time using
 
 
 
-With:
+
 
 ```markdown
 ![App Preview](preview.png)
