@@ -23,18 +23,6 @@ A Python desktop application that evaluates password strength in real-time using
 
 ## 📸 Application Preview
 
+<img width="352" height="274" alt="Image" src="https://github.com/user-attachments/assets/bbbdda3e-b7a2-4611-87af-00157e1f79d7" />
 
 
-
-
-```markdown
-![App Preview](preview.png)
-
----
-
-## ▶ How To Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/AZEEZ-CYB/password-strength-checker.git
